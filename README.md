@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and Computer Networking
 - 🌱 I’m currently learning Web Development in [Full Stack Open](https://fullstackopen.com/en/)
 - 💞️ I’m looking to collaborate on Open Source Contributions, learn new technologies and share knowledge
-- 📫 How to reach me ... [Mail](kannan.bk@protonmail.com)
+- 📫 How to reach me ... [Mail](mailto:kannan.bk@protonmail.com?subject=[github]%Hi,%20from%20GitHub)
 
 <!---
 Oraion13/Oraion13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
