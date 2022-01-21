@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Oraion13
-- 👀 I’m interested in Web development and AI
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kannan
+- 👀 I’m interested in Web development and Computer Networking
+- 🌱 I’m currently learning Web Development in [Full Stack Open](https://fullstackopen.com/en/)
+- 💞️ I’m looking to collaborate on Open Source Contributions, learn new technologies and share knowledge
+- 📫 How to reach me ... [Mail](kannan.bk@protonmail.com)
 
 <!---
 Oraion13/Oraion13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
